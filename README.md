@@ -1,4 +1,3 @@
-#VBA Homwwork2
 
 #MultiYearStockdata
 
